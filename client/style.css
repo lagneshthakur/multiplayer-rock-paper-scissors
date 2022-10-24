@@ -1,0 +1,36 @@
+* {
+    font-family: "Optima" !important;
+}
+
+.rock {
+    color: transparent;
+    background: url(./assets/rock.svg);
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    background-size: 200px;
+}
+
+.paper {
+    color: transparent;
+    background: url(./assets/paper.svg);
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    background-size: 200px;
+}
+
+.scissor {
+    color: transparent;
+    background: url(./assets/scissor.svg);
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    background-size: 200px;
+}
+
+.title {
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 2;
+}
